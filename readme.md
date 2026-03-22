@@ -2,8 +2,8 @@
 ## Predicción de Suscripción a Producto Bancario
 
 ### Integrantes
-- Nombre1 (NIA: XXXXX)
-- Nombre2 (NIA: XXXXX)
+- Carlos Martin Gallardo (NIA: 100522258)
+- Alejandro Quirante Sanz (NIA: 100522183)
 
 ### Descripción
 Este proyecto predice si un cliente bancario suscribirá un depósito a plazo utilizando diferentes métodos de aprendizaje automático.
