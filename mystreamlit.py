@@ -1,7 +1,12 @@
 import streamlit as st
 import pandas as pd
 import joblib
-
+import numpy as np
+import random
+SEMILLA = 100522258
+ARCHIVO_DATOS = '../data/bank_13.pkl'
+np.random.seed(SEMILLA)
+random.seed(SEMILLA)
 # Configuración de la página
 st.title("Predicción de Suscripción Bancaria")
 st.write("Introduce los datos del cliente para evaluar la probabilidad de éxito.")
